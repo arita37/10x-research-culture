@@ -1,0 +1,1922 @@
+[
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บักเอ๊บ",
+        "central": "ใหญ่โต"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะลุก",
+        "central": "พื้นผิวขรุขระ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะก๋อง",
+        "central": "กะชอน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เต้ง",
+        "central": "ระเบียง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "นัว",
+        "central": "ข้น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำโห่ง",
+        "central": "น้ำท่วม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บุ่ง",
+        "central": "สระน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไป๋",
+        "central": "ไป"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ป๊ะ",
+        "central": "พบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ผ่าซิ่น",
+        "central": "ผ้าถุง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฝาละมี",
+        "central": "ฝาหม้อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฟก",
+        "central": "บวม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไม้ปัด",
+        "central": "ไม้กวาด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไล",
+        "central": "กลอนประตู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่อง",
+        "central": "รู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หลีเหลอ",
+        "central": "เงียบเหงา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หกคะนา",
+        "central": "คันนา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมวง",
+        "central": "ข้อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หยางหยืด",
+        "central": "ยางยืด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โกรกกราก",
+        "central": "รีบเร่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๊กไม้",
+        "central": "ต้นไม้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะต้า",
+        "central": "ตะกร้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกือก",
+        "central": "รองเท้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขนน",
+        "central": "โอ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะน่อง",
+        "central": "น่อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขีดยา",
+        "central": "ฉีดยา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขวน",
+        "central": "ขวาน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งูจิ๊ก",
+        "central": "งูกัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งัว",
+        "central": "วัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จิ",
+        "central": "จะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จักแหล่ว",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กนี",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่น",
+        "central": "วุ่นวาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ง",
+        "central": "เหลือ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กแหล่ว",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ชะ/ช่ะ",
+        "central": "สะอาด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดา",
+        "central": "ด้วย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดูทั้ว",
+        "central": "ดูซิ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตอด",
+        "central": "ต่อย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะฮวด",
+        "central": "ขวด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกหัวนอน/ทิศหัวนอน",
+        "central": "ทิศใต้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกปะตี๋น/ทิศปะตี๋น/ทิศปะตีน",
+        "central": "ทิศเหนือ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกกะตก/ทิศกะตก",
+        "central": "ทิศตะวันตก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกตะออก/ทิศตะออก",
+        "central": "ทิศตะวันออก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละกอ",
+        "central": "มะละกอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ใบ๋สีพลู",
+        "central": "ใบช้าพลู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กล้วยเปลือกบ๋าง",
+        "central": "กล้วยน้ำว้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เป๊ดป๊าบ",
+        "central": "เป็ดไข่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละมวนท่อง",
+        "central": "มวนท้อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละมันหมู",
+        "central": "น้ำมันหมู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฝนละลึมๆ",
+        "central": "ฝนโปรยๆ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะวึ๊กน่าม",
+        "central": "กวักน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ๋เหว่ย/ไอ๋เยอ",
+        "central": "อะไรนะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลูกงา",
+        "central": "เด็กทารกแรกเกิด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดึ๊กน่าม",
+        "central": "จมน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "มืดสอึ๊บ",
+        "central": "มืดสลัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เขี่ยนหมาก",
+        "central": "เขี่ยนหมาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แฉ่ะประแประ",
+        "central": "เฉอะแฉะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เอ๋ง",
+        "central": "เรา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โหง่ย",
+        "central": "ล้ม/ตก/หล่น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แหม่น",
+        "central": "สอย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถมหมืด",
+        "central": "มากมาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถมมอ",
+        "central": "ถมเถ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ๋/อั๋ย",
+        "central": "อะไร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คือ",
+        "central": "เหมือน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โกรกกราก",
+        "central": "รีบด่วน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "มะเขือละดอน",
+        "central": "มะเขือพวง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทรพี",
+        "central": "ทับพี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กเด่",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดอกเด่",
+        "central": "ต่างหาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โต่งโหม่ง",
+        "central": "เห็นเด่นชัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหนียน",
+        "central": "เกี่ยงกัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หนอง",
+        "central": "สระน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระเวิกระวึน",
+        "central": "ทำตัวเลอะเทอะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ซี่ก",
+        "central": "น้ำครำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ละโลก/ขี้ละโลก",
+        "central": "ขี้โคลน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไล",
+        "central": "กลอนหน้าต่าง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๋ำอ๊อก/ก่ำอ๊อก",
+        "central": "เก็บตัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พูดล่าง",
+        "central": "พูดแบบคนกรุงเทพ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำปร้า",
+        "central": "น้ำปลาร้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดินหุน",
+        "central": "ปลวก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จอบป่ะ",
+        "central": "จอบสำหรับขุดดิน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จอบมือ",
+        "central": "จอบเสียม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หม๊กม่วง",
+        "central": "มะม่วง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หม๊กนาว",
+        "central": "มะนาว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หม๊กพร้าว",
+        "central": "มะพร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลอยละปุ๋ง",
+        "central": "ลอยตุ๊บป่อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะแวว",
+        "central": "มีดอีโต้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๊กเข่า",
+        "central": "ต้นข้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ยิบ",
+        "central": "เย็บ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทำเป็นเอ๋ง/ทำเป๋นเอง",
+        "central": "เล่นตัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เพ่าะ",
+        "central": "พ่อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แม่ะ",
+        "central": "แม่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เพ่าะใหญ่",
+        "central": "พ่อผัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แม่ะใหญ่",
+        "central": "แม่ผัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เพ่าะเฒ่า",
+        "central": "ตา/ปู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แม่ะเฒ่า",
+        "central": "ยาย/ย่า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ำโอ๋",
+        "central": "อาเจียน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อู้ดลู้ด",
+        "central": "สกปรก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะกะตะกราน",
+        "central": "กินมูมมาม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ต๊กกะเต็ด",
+        "central": "อาการตกใจจนสะดุ้ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๊กไม่",
+        "central": "ต้นไม้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สีหยืด",
+        "central": "หวาดเสียว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซุยู่",
+        "central": "เยอะแยะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเทิ๊บ",
+        "central": "ขยับ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระยึกระยึน",
+        "central": "เยอะแยะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ปด",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คิงคก",
+        "central": "คางคก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "มอง",
+        "central": "ตาข่ายดักปลา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ต่อน",
+        "central": "เนื้อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สุ๊หัว",
+        "central": "สระผม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บื๋น",
+        "central": "คลาน แบบ ช้าๆทำตัวให้ลีบๆ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ะเอิ๋ม",
+        "central": "น่ารังเกียจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กกมะยม",
+        "central": "ต้นมะยม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมู่กั๋น",
+        "central": "เพื่อนกัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งวม",
+        "central": "คว่ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คนฝนมีด",
+        "central": "ลับคมมีด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ำไร",
+        "central": "ชักช้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จอด",
+        "central": "เชื่อม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะทะระราย",
+        "central": "อัธยาศัยดี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระอ๋อม",
+        "central": "เจ็บ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะวาบ",
+        "central": "โล่งใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พูดเดิม",
+        "central": "นินทา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เล่นนอก",
+        "central": "แซวเล่น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เสมอหรึ่ม",
+        "central": "นิ่งเฉย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำต๋าลอยหน่วย",
+        "central": "น้ำตาคลอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่วยแหน่/แหน่",
+        "central": "น้อยหน่า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก้อด๋ายเนาะ",
+        "central": "ช่างทำไปได้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก่ำอ็อก",
+        "central": "ซ่อน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำต๋าลอยหน่วย",
+        "central": "น้ำตาคลอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กำรึน",
+        "central": "เกร็ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เอิด",
+        "central": "โผล่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ้นาย",
+        "central": "ผม/ฉัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมุ่น",
+        "central": "มุด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ำหึน",
+        "central": "ดันทุรัง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ปะลม",
+        "central": "ผสม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เจ่นเด",
+        "central": "มาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เอิดเปิด",
+        "central": "เห็นเด่นชัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รุระ",
+        "central": "ไว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทิศปะติ๋น",
+        "central": "ทิศใต้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะยึก",
+        "central": "เร่งรีบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฉะมุดน้ำ/ขะมุดน้ำ",
+        "central": "ดำน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "นั่นเอ๋ง",
+        "central": "นั่นแหละ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สูกหยูก",
+        "central": "รุงรัง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กลิ้งโข่โหล่",
+        "central": "กลิ้งไม่เป็นท่า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กืก",
+        "central": "เป็นใบ้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เดิ่น",
+        "central": "ลาน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะโหลก",
+        "central": "กะลามะพร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ง",
+        "central": "แบ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กู้ผ่า",
+        "central": "เก็บผ้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จะหลืน",
+        "central": "ทะลึ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โพด",
+        "central": "เกินไป"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กไอ์เยอ",
+        "central": "อะไรก็ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะยื่อ",
+        "central": "เอื้อม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "นิ",
+        "central": "หรือ/ใช่ไหม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ขะหนิม",
+        "central": "ขี้ไคล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ต่องหม่อง",
+        "central": "ตั้งอยู่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมาน",
+        "central": "โชคดี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่ะโลก",
+        "central": "โคลนตม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โชก",
+        "central": "เปียกแฉะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แฉะกะแป้ะ",
+        "central": "เปียกแฉะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหงิบ",
+        "central": "เงย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหิบ",
+        "central": "ปิดไม่สนิท"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อิลักอิหลูบ",
+        "central": "ทุลักทุเล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เตลิด",
+        "central": "เลย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระอ์อม",
+        "central": "เจ็บรวดร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ชวดโม่ะ",
+        "central": "ผิดหวัง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถั่วดิ๋น",
+        "central": "ถั่วลิสง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เสงิม",
+        "central": "ไม่มีสมาธิ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เบ๊าะ",
+        "central": "ที่นอน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ่อน",
+        "central": "ที่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ปะเลาะ",
+        "central": "เกลี้ยกล่อม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำขี่สีก",
+        "central": "น้ำครำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โรม",
+        "central": "รวม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ๊ก",
+        "central": "พร่อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระวน",
+        "central": "ยุ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทิศตะออก",
+        "central": "ทิศตะวันออก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะหน่า",
+        "central": "สมน้ำหน้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งึ่ด",
+        "central": "แปลกใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่วย",
+        "central": "ผล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เบิ้ง",
+        "central": "บ้าง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แห่น",
+        "central": "แทะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะบุ๊กสะบูด",
+        "central": "มอมแมม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะหวอย",
+        "central": "หิวจนอ่อนแรง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รุ่ระ",
+        "central": "รวดเร็ว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รุ่ร่ะ",
+        "central": "รวดเร็ว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะออน/สะอ๋อน",
+        "central": "น่าชื่นชม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระอิ๊กหระเอิด",
+        "central": "ดีใจจนเกินเหตุ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตื่ง",
+        "central": "บวม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ป๊ด",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระดิ๊กกระเดิด",
+        "central": "ระริกระรี้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทิศกะต๊ก",
+        "central": "ทิศตะวันตก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หุย",
+        "central": "ปลิว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมุนมอ",
+        "central": "มีมากมาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถมหมืดถมมอ",
+        "central": "มากมายก่ายกอง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แซะแยะ",
+        "central": "เยอะแยะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระบ๋วน",
+        "central": "ถือตัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกลี้ยงหน่อง",
+        "central": "หมด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แข่น",
+        "central": "ขัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ๊ก",
+        "central": "ล้วง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระเอิ๋ม",
+        "central": "ขยะแขยง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่ะลึม",
+        "central": "ปรอย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่อ",
+        "central": "นะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่ะเลิง",
+        "central": "พัง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระแช่ะ",
+        "central": "กระแทก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเต็ด",
+        "central": "ตกใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะลิกกะเหลิม",
+        "central": "อยู่ไม่นิ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะมิดตะหม่อง",
+        "central": "เหนียมอาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เซิงเติง",
+        "central": "กระเซอะกระเซิง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหยูด",
+        "central": "ยับยู่ยี่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะนน",
+        "central": "โอ่งน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พูดเดิ๋ม",
+        "central": "นินทา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แก่",
+        "central": "คุณ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่งไว้",
+        "central": "รักษาไว้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ชะแหน่ว",
+        "central": "หมด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บึ้งกือ",
+        "central": "กิ้งกือ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะกึ้ด",
+        "central": "สะกด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ป่ะลึม",
+        "central": "ใกล้ค่ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะแก๋",
+        "central": "กรรไกร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะบ๋วน",
+        "central": "ทำตัวลีลา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กเด่ะ",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อั๊ดจั๋น",
+        "central": "แปลกใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหนมจี๋น",
+        "central": "ขนมจีน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะป๊ด",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดึ๊กน้าม",
+        "central": "สำลักน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะแด้ง",
+        "central": "ไม่โต"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่าแง",
+        "central": "หน้าผาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จำโอ๋",
+        "central": "อาการคลื่นไส้อาเจียน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รากแตก",
+        "central": "อาเจียนอย่างรุนแรง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คั๊กไหม่ อีทีนิ๊",
+        "central": "การทำอะไรแบบสุดโต่ง หลุดโลกไปเลย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลันด๋า",
+        "central": "แกล้งทำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเทิน",
+        "central": "ทำอะไรครึ่ง ๆ กลาง ๆ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะบวน",
+        "central": "กวน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กู้ผ่า",
+        "central": "เก็บผ้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะหวด",
+        "central": "ขวด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะว้าบ",
+        "central": "โล่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เริ๊อะ",
+        "central": "พุ่มไม้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเต็ดพราด",
+        "central": "สะดุ้งโหย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะทุก",
+        "central": "บรรทุก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ปะโลม",
+        "central": "ผสม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระเวิก",
+        "central": "วุ่นวาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขยือ",
+        "central": "เอื้อม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะบุกสะบูด",
+        "central": "มอมแมม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดิ๋นหุน",
+        "central": "ปลวก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อิหลักอิหลูบ",
+        "central": "ทุลักทุเล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แสละ",
+        "central": "กระแดะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลำ",
+        "central": "แม่น้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทีเบิ้ง",
+        "central": "บางครั้ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แฉะปะแประ",
+        "central": "แฉะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะวาบ",
+        "central": "โล่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แนว",
+        "central": "เผ่าพันธ์"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ขะหนึบ",
+        "central": "สนิม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฝนย้อยเม็ด",
+        "central": "ฝนตก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เสียเส่น/เสียยึก",
+        "central": "เคล็ดขัดยอก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จืดจ่องหล่อง",
+        "central": "จืดจนไม่มีรสชาติ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คะนน",
+        "central": "โอ่งดิน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตั๋งราย",
+        "central": "แบงก์ย่อย/เหรียญ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระอ๋อม",
+        "central": "ระบม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊ก",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ่เหว่ย/จั๊กไอ่",
+        "central": "อะไรก็ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดูถั่วะ",
+        "central": "ดูสิ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สีเหลื่อม ๆ",
+        "central": "สีที่มีความระยิบระยับ แวววาว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละกอ",
+        "central": "มะละกอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละลม",
+        "central": "สระน้ำที่ขุดค่อนข้างลึกและกว้าง เพื่อเก็บน้ำไว้ตลอดปี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซุม",
+        "central": "กลุ่มที่มีบ้านเรือนรวมกันอยู่หนาแน่น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่อ",
+        "central": "ล้อ(กริยา)"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หล้อ",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซักชา",
+        "central": "ซักคะเย่อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลันทา",
+        "central": "ระทา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหยียบ",
+        "central": "ทับ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกี๋ยว",
+        "central": "เกวียน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ควย",
+        "central": "ควาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะเหว๋า/ขะเหวา",
+        "central": "ข่วน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เจ๊บ",
+        "central": "เจ็บ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เข่า",
+        "central": "ข้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ้วน",
+        "central": "ตัก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ๋ก",
+        "central": "ตัก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ๋าน",
+        "central": "จาน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขวง",
+        "central": "ขวาง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กวง",
+        "central": "กวาง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สว๋อย",
+        "central": "อาการหลังกินเหล้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไข้หัวลม",
+        "central": "ไข้เปลี่ยนฤดู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ส่อน",
+        "central": "ซ้อน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๋มโอ๋",
+        "central": "อาการคลื่นไส้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ๊ก",
+        "central": "ลดลง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะทะระราย",
+        "central": "คนที่อัธยาศัยดี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ควยงู",
+        "central": "หญ้าพันงู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เลน",
+        "central": "นิ่ม/อ่อน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่เหร่",
+        "central": "ขี้เหร่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หิวนอน",
+        "central": "ง่วงนอน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหนมจี๋น",
+        "central": "ขนมจีน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กิ๋น",
+        "central": "กิน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกร๋งใจ",
+        "central": "เกรงใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กั๋น",
+        "central": "กัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โคม",
+        "central": "ชน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละก๋อ",
+        "central": "มะละกอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โสน",
+        "central": "เหี่ยวเฉา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เห็นเห็น",
+        "central": "ไม่เห็น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่น",
+        "central": "ยุ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ะยึก",
+        "central": "ขวักไขว่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทรงคือ",
+        "central": "ได้อยู่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหนีบ",
+        "central": "คีบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ช้ก",
+        "central": "ขโมย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ใสแหง่ว",
+        "central": "ใส"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดำปึ้ด",
+        "central": "ดำสนิท"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แมวโพรง",
+        "central": "แมวจรจัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไก่โอก",
+        "central": "ไก่ตัวผู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ช่างทั่วะ",
+        "central": "ไม่เป็นไร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พอแรง",
+        "central": "มากพอแล้ว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เร็ง",
+        "central": "ข่มเหง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะกึ๊ด",
+        "central": "กด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระต๊อด",
+        "central": "เขยิบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จะหลึน",
+        "central": "ทะลึ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเจิ้บ",
+        "central": "เหยียบย่ำบนพื้นที่ชื้อแฉะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ะด๋อน",
+        "central": "อาการอักเสบจนทำให้บวม หรือพิษไข้กำเริบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะเหงิม",
+        "central": "เหม่อลอย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เผลิง",
+        "central": "พื้นที่โล่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สูบยาง",
+        "central": "เติมลมล้อรถ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ่อนเด๋น",
+        "central": "ที่เดิม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เวียนหน้า",
+        "central": "วิงเวียนศีรษะ"
+    }
+]

@@ -1,0 +1,3362 @@
+[
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ต่อเช้า",
+        "central": "พรุ่งนี้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๋ำอ๊อก/ก่ำอ๊อก",
+        "central": "เก็บตัว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ป้าก",
+        "central": "ทับพี"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "คัดพุง",
+        "central": "อึดอัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไป๋",
+        "central": "ไป"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ส้มเกลี้ยง",
+        "central": "ส้มเขียวหวาน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ขี้พร้า",
+        "central": "ฟัก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ม่ะหน้อแหน้",
+        "central": "น้อยหน่า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โหง่ย",
+        "central": "ล้ม/ตก/หล่น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะลิกกะเหลิม",
+        "central": "อยู่ไม่นิ่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ฝาดหยั่งก้นตุ๊",
+        "central": "รสฝาดมาก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "หรอย",
+        "central": "อร่อย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ตกคันได",
+        "central": "ตกบันได"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เหล็กขูด",
+        "central": "กระต่ายขูดมะพร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ขะหนึบ",
+        "central": "สนิม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "หยบ",
+        "central": "หลบหรือซ่อน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โพด",
+        "central": "เกินไป"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถมหมืดถมมอ",
+        "central": "มากมายก่ายกอง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แม่ะเฒ่า",
+        "central": "ยาย/ย่า"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "ไม่โร้หวัน",
+        "central": "ไม่รู้เรื่องรู้ราว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ถุงตี๋น",
+        "central": "ถุงเท้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จะหลึน",
+        "central": "ทะลึ่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ยะ",
+        "central": "ทำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แม่ะ",
+        "central": "แม่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แข่น",
+        "central": "ขัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ง",
+        "central": "เหลือ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "เจี๊ยะโก๊ย",
+        "central": "ปาท่องโก๋"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "แฮ่นป้อจาย",
+        "central": "หิวผู้ชาย"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ดักอีเดียม",
+        "central": "จั๊กจี้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รุระ",
+        "central": "ไว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รุ่ร่ะ",
+        "central": "รวดเร็ว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ฮัก",
+        "central": "รัก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ยิบ",
+        "central": "เย็บ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พูดเดิ๋ม",
+        "central": "นินทา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะยื่อ",
+        "central": "เอื้อม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ใค่ฮาก",
+        "central": "อยากอ้วก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ผ่อ",
+        "central": "มอง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "คง",
+        "central": "ข้าวโพด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ก้วยอ่อง",
+        "central": "กล้วยน้ำว้า"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "สายฮั้ง",
+        "central": "เข็มขัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระอ์อม",
+        "central": "เจ็บรวดร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กเด่ะ",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหนมจี๋น",
+        "central": "ขนมจีน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกปะตี๋น/ทิศปะตี๋น/ทิศปะตีน",
+        "central": "ทิศเหนือ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะออน/สะอ๋อน",
+        "central": "น่าชื่นชม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ำโอ๋",
+        "central": "อาเจียน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ฉาด",
+        "central": "ไม่มี"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "หลูกหลาก",
+        "central": "สกปรก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หมู่เฮา",
+        "central": "พวกเรา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หิวนอน",
+        "central": "ง่วงนอน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หม๊กพร้าว",
+        "central": "มะพร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เพ่าะเฒ่า",
+        "central": "ตา/ปู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ต่อน",
+        "central": "เนื้อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หกคะนา",
+        "central": "คันนา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะทะระราย",
+        "central": "คนที่อัธยาศัยดี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กู้ผ่า",
+        "central": "เก็บผ้า"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ลูกตอ",
+        "central": "สะตอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะน่อง",
+        "central": "น่อง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ทำหรือ",
+        "central": "ทำอย่างไร"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "คุมวัน",
+        "central": "จนทุกวันนี้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หม๊กนาว",
+        "central": "มะนาว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ชวดโม่ะ",
+        "central": "ผิดหวัง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หม่ะมุด",
+        "central": "ละมุด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บ่",
+        "central": "ไม่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกกะตก/ทิศกะตก",
+        "central": "ทิศตะวันตก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๋มโอ๋",
+        "central": "อาการคลื่นไส้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ต่อเหรือง",
+        "central": "วันถัดไปของวันมะรืน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะว้าบ",
+        "central": "โล่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "พันพรือหล้าว",
+        "central": "เป็นยังไงอีก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทรพี",
+        "central": "ทับพี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กืก",
+        "central": "เป็นใบ้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "อ้าย",
+        "central": "พี่ชาย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "นั่งขดขวาย",
+        "central": "นั่งขัดสมาธิ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะแต๋ง",
+        "central": "แตงกวา"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2775195/",
+        "type": "northern",
+        "dialect": "ลำก่อ",
+        "central": "อร่อยไหม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ทำถ้าว",
+        "central": "ยุ่งเรื่องคนอื่น"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "อีโหว้งวก",
+        "central": "ไม่รู้เรื่อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ป๊ะ",
+        "central": "พบ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ป้อ",
+        "central": "พ่อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไก่โอก",
+        "central": "ไก่ตัวผู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เซิงเติง",
+        "central": "กระเซอะกระเซิง"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "พันพรือมั่ง",
+        "central": "เป็นอย่างไรบ้าง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จั๊กก่า",
+        "central": "กิ้งก่า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะหวอย",
+        "central": "หิวจนอ่อนแรง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โชก",
+        "central": "เปียกแฉะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เวดนา",
+        "central": "น่าสงสารดูไม่ได้"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ดายของ",
+        "central": "เสยดาย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "สลิดอย่างวอก",
+        "central": "ดัดจริต"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่อง",
+        "central": "รู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เอ๋ง",
+        "central": "เรา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะลุก",
+        "central": "พื้นผิวขรุขระ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ๊ก",
+        "central": "ล้วง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ปะโลม",
+        "central": "ผสม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะแด้ง",
+        "central": "ไม่โต"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "แขบหม้าย",
+        "central": "รีบไหม"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2775195/",
+        "type": "northern",
+        "dialect": "ยะก๋านตี้ไหน",
+        "central": "ทำงานที่ไหน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "แต่วา",
+        "central": "เมื่อวานนี้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กกมะยม",
+        "central": "ต้นมะยม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ฮากแตก",
+        "central": "อ้วกแตก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "อะหยัง",
+        "central": "อะไร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บื๋น",
+        "central": "คลาน แบบ ช้าๆทำตัวให้ลีบๆ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กู้ผ่า",
+        "central": "เก็บผ้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เจ่นเด",
+        "central": "มาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ะด๋อน",
+        "central": "อาการอักเสบจนทำให้บวม หรือพิษไข้กำเริบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะหวด",
+        "central": "ขวด"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2775195/",
+        "type": "northern",
+        "dialect": "บ่าวอก",
+        "central": "คนขี้โกหก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แหม่น",
+        "central": "สอย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กนี",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "นิ",
+        "central": "หรือ/ใช่ไหม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "อีฮวก",
+        "central": "ลูกอ๊อด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ๋/อั๋ย",
+        "central": "อะไร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ซี่ก",
+        "central": "น้ำครำ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เฮือน",
+        "central": "บ้าน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ช้ก",
+        "central": "ขโมย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เลน",
+        "central": "นิ่ม/อ่อน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "โหม",
+        "central": "กลุ่ม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฝนย้อยเม็ด",
+        "central": "ฝนตก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ช่างทั่วะ",
+        "central": "ไม่เป็นไร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หลีเหลอ",
+        "central": "เงียบเหงา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เข่า",
+        "central": "ข้าว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หม่ะต๋าเสือ",
+        "central": "ลูกยอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระต๊อด",
+        "central": "เขยิบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เอิด",
+        "central": "โผล่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หุย",
+        "central": "ปลิว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ่อนเด๋น",
+        "central": "ที่เดิม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เมล่อ",
+        "central": "ไม่เอาไหน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โรม",
+        "central": "รวม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหนีบ",
+        "central": "คีบ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เนียนแจ็กแจ๊ก",
+        "central": "เละเทะ ไม่เหลือชิ้นดี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทิศกะต๊ก",
+        "central": "ทิศตะวันตก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะต้า",
+        "central": "ตะกร้า"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "หกใส่",
+        "central": "ใส่ความ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "เจียนซี่",
+        "central": "ตะหลิว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะแก๋",
+        "central": "กรรไกร"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "หิด",
+        "central": "เล็กน้อย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เบ๊าะ",
+        "central": "ที่นอน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระเวิกระวึน",
+        "central": "ทำตัวเลอะเทอะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "มีดยับ",
+        "central": "กรรไกร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมุนมอ",
+        "central": "มีมากมาย"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "ส้มนาว",
+        "central": "มะนาว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ปด",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ขี้จุ๊",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมู่กั๋น",
+        "central": "เพื่อนกัน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "กุดไหน",
+        "central": "พระอยู่กุฏิไหน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไข้หัวลม",
+        "central": "ไข้เปลี่ยนฤดู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะบุ๊กสะบูด",
+        "central": "มอมแมม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกร๋งใจ",
+        "central": "เกรงใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เห็นเห็น",
+        "central": "ไม่เห็น"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "วันศีล",
+        "central": "วันพระ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ขี้มิ่น",
+        "central": "ขมิ้นใส่ในแกงของคนใต้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เอิดเปิด",
+        "central": "เห็นเด่นชัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะหน่า",
+        "central": "สมน้ำหน้า"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "ดังฉาวเทือน",
+        "central": "เสียงดัง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ทั้งเพ",
+        "central": "ทั้งหมด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เหล็กโคน",
+        "central": "ตะปู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเต็ดพราด",
+        "central": "สะดุ้งโหย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "แคงควน",
+        "central": "เอียงหรือไม่ตรง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โคม",
+        "central": "ชน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "วอก",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "แล",
+        "central": "ดู"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ขวยใจ",
+        "central": "กังวลใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขยือ",
+        "central": "เอื้อม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะต่อม",
+        "central": "กระดุม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระอ๋อม",
+        "central": "ระบม"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "รถถีบ",
+        "central": "จักรยาน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเจิ้บ",
+        "central": "เหยียบย่ำบนพื้นที่ชื้อแฉะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สูบยาง",
+        "central": "เติมลมล้อรถ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฟก",
+        "central": "บวม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บึ้งกือ",
+        "central": "กิ้งกือ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "พีนัด",
+        "central": "อ้วนมากๆ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เกือก",
+        "central": "รองเท้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหงิบ",
+        "central": "เงย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ซีโย",
+        "central": "ยาสูบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซุยู่",
+        "central": "เยอะแยะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "โฮงเฮียน",
+        "central": "โรงเรียน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่ะเลิง",
+        "central": "พัง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ป๊ด",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ช้อนชี่",
+        "central": "ตะหลิว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ปัน",
+        "central": "พัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คั๊กไหม่ อีทีนิ๊",
+        "central": "การทำอะไรแบบสุดโต่ง หลุดโลกไปเลย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกลี้ยงหน่อง",
+        "central": "หมด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "มืดสอึ๊บ",
+        "central": "มืดสลัว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หมู่เขา",
+        "central": "พวกเขา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขีดยา",
+        "central": "ฉีดยา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไล",
+        "central": "กลอนประตู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดิ๋นหุน",
+        "central": "ปลวก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดา",
+        "central": "ด้วย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หัน",
+        "central": "เห็น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เล่นนอก",
+        "central": "แซวเล่น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กลิ้งโข่โหล่",
+        "central": "กลิ้งไม่เป็นท่า"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "กาสะลอง",
+        "central": "ดอกปีป"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กำรึน",
+        "central": "เกร็ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "จังหู",
+        "central": "เยอะแยะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เอาแต่ใจ๋ตั๋วเก่า",
+        "central": "เอาแต่ใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทิศตะออก",
+        "central": "ทิศตะวันออก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เจ๊บ",
+        "central": "เจ็บ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งึ่ด",
+        "central": "แปลกใจ"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "หวังเหวิด",
+        "central": "คิดถึง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก้อด๋ายเนาะ",
+        "central": "ช่างทำไปได้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คิงคก",
+        "central": "คางคก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กวง",
+        "central": "กวาง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จ๋างแจ้ดแผ้ด",
+        "central": "จืดชืด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "แลหวัน",
+        "central": "มองหรือดูตะวัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ๊ก",
+        "central": "ลดลง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "แขบ",
+        "central": "รีบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จะหลืน",
+        "central": "ทะลึ่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่น",
+        "central": "วุ่นวาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะแวว",
+        "central": "มีดอีโต้"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ยานัด",
+        "central": "สัปปะรด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำต๋าลอยหน่วย",
+        "central": "น้ำตาคลอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ควย",
+        "central": "ควาย"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "หนังโหม้",
+        "central": "หนังตะลุง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดึ๊กน้าม",
+        "central": "สำลักน้ำ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เปิ้น",
+        "central": "ฉัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดำปึ้ด",
+        "central": "ดำสนิท"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ะเอิ๋ม",
+        "central": "น่ารังเกียจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๊กไม่",
+        "central": "ต้นไม้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขนน",
+        "central": "โอ่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เหม็นโอ๊ง",
+        "central": "เหม็นเน่า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ป่ะลึม",
+        "central": "ใกล้ค่ำ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "โตย",
+        "central": "ด้วย"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "กางหลาง",
+        "central": "เกเร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตอด",
+        "central": "ต่อย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทิศปะติ๋น",
+        "central": "ทิศใต้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "โขด",
+        "central": "โกรธ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ด้น",
+        "central": "ดุร้าย"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ลอกอ",
+        "central": "หลอกลวง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ้นาย",
+        "central": "ผม/ฉัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทรงคือ",
+        "central": "ได้อยู่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กล้วยเปลือกบ๋าง",
+        "central": "กล้วยน้ำว้า"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "แค็บ",
+        "central": "รองเท้าฟองน้ำ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เซน",
+        "central": "เอียง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "โฮงยา",
+        "central": "โรงพยาบาล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระเวิก",
+        "central": "วุ่นวาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "นั่นเอ๋ง",
+        "central": "นั่นแหละ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ผ้าต๊วบ",
+        "central": "ผ้าห่ม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ฮ้อง",
+        "central": "เรียก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เอิด",
+        "central": "ทำตัวกร่าง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ปลาเอี่ยน",
+        "central": "ปลาไหล"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "แป้งหวาน",
+        "central": "ผงชูรส"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "หายเบ่อ",
+        "central": "สมน้ำหน้า"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "เคย",
+        "central": "กะปิ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ขาดหุ้น",
+        "central": "ไม่รู้เรื่องหรือไม่ฉลาด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "สลิดดก",
+        "central": "ระริกระรี้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ม่ะแต๋งซั้ง",
+        "central": "แตงล้าน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละมันหมู",
+        "central": "น้ำมันหมู"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ในโย",
+        "central": "ปัจจุบัน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ขบ",
+        "central": "กัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทีเบิ้ง",
+        "central": "บางครั้ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หนอง",
+        "central": "สระน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เผลิง",
+        "central": "พื้นที่โล่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ไม่รู้หวัน",
+        "central": "ไม่รู้เรือง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อิหลักอิหลูบ",
+        "central": "ทุลักทุเล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ละโลก/ขี้ละโลก",
+        "central": "ขี้โคลน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมุ่น",
+        "central": "มุด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฝนละลึมๆ",
+        "central": "ฝนโปรยๆ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ขี้จิ๊",
+        "central": "ขี้เหนียว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ต่อรือ",
+        "central": "วันมะรืน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ได้แรงอก",
+        "central": "ถูกใจ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะฟักแก้ว",
+        "central": "ฟักทอง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ขี้ลัก",
+        "central": "ขโมย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระยึกระยึน",
+        "central": "เยอะแยะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ขี้หก",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "นัว",
+        "central": "ข้น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระแช่ะ",
+        "central": "กระแทก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ต่องหม่อง",
+        "central": "ตั้งอยู่"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ปันเอ็ด",
+        "central": "พันหนึ่งร้อย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "หวิบ",
+        "central": "โมโห"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ทำเป็นเอ๋ง/ทำเป๋นเอง",
+        "central": "เล่นตัว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะก้วยเต๊ศ",
+        "central": "มะละกอ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ไผ",
+        "central": "ใคร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่อ",
+        "central": "นะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จะอั้น",
+        "central": "อย่างนั้น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โกรกกราก",
+        "central": "รีบเร่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เริน",
+        "central": "บ้าน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แฉะกะแป้ะ",
+        "central": "เปียกแฉะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "โฮงบาล",
+        "central": "โรงบาล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แมวโพรง",
+        "central": "แมวจรจัด"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "มาแต่สวน",
+        "central": "มาคนเดียว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะทุก",
+        "central": "บรรทุก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่ะลึม",
+        "central": "ปรอย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะกึ๊ด",
+        "central": "กด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แก่",
+        "central": "คุณ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะป๊ด",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ไหว้เมีย",
+        "central": "แต่งงาน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฝาละมี",
+        "central": "ฝาหม้อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเทิน",
+        "central": "ทำอะไรครึ่ง ๆ กลาง ๆ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พอแรง",
+        "central": "มากพอแล้ว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "มะเขือละดอน",
+        "central": "มะเขือพวง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกตะออก/ทิศตะออก",
+        "central": "ทิศตะวันออก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะวึ๊กน่าม",
+        "central": "กวักน้ำ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "หายเบ่อ",
+        "central": "สมน้ำหน้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สุ๊หัว",
+        "central": "สระผม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "แลงนี้",
+        "central": "เย็นนี้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ใสแหง่ว",
+        "central": "ใส"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่เหร่",
+        "central": "ขี้เหร่"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "กำสีเน",
+        "central": "คำเล่าลือ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขวน",
+        "central": "ขวาน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "นั่งป้อหละแหม้",
+        "central": "นั่งพับเพียบ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "สูเขา",
+        "central": "พวกเธอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เป๊ดป๊าบ",
+        "central": "เป็ดไข่"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ป๋า",
+        "central": "ปลา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตั๋งราย",
+        "central": "แบงก์ย่อย/เหรียญ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "พรือโฉ้",
+        "central": "เป็นอาการที่บอกไม่ได้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถมหมืด",
+        "central": "มากมาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เบิ้ง",
+        "central": "บ้าง"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "หลาวๆ",
+        "central": "ซุ่มซ่าม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เสมอหรึ่ม",
+        "central": "นิ่งเฉย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละกอ",
+        "central": "มะละกอ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ป้อจาย",
+        "central": "ผู้ชาย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แซะแยะ",
+        "central": "เยอะแยะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ไหนแม่",
+        "central": "แม่อยู่ไหน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เพ่าะ",
+        "central": "พ่อ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คือ",
+        "central": "เหมือน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เริ๊อะ",
+        "central": "พุ่มไม้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดูถั่วะ",
+        "central": "ดูสิ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ตาล่อ",
+        "central": "โลภ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จิ",
+        "central": "จะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ไซร์",
+        "central": "ทำไม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะวาบ",
+        "central": "โล่งใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ่อน",
+        "central": "ที่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมวง",
+        "central": "ข้อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหนียน",
+        "central": "เกี่ยงกัน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊ก",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "แอ่ว",
+        "central": "เที่ยว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ผะเริด",
+        "central": "ลื่นล้ม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระอิ๊กหระเอิด",
+        "central": "ดีใจจนเกินเหตุ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "แหลง",
+        "central": "พูด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สว๋อย",
+        "central": "อาการหลังกินเหล้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก่ำอ็อก",
+        "central": "ซ่อน"
+    },
+    {
+        "source": "https://mthai.com/campus/45825.html",
+        "type": "southern",
+        "dialect": "หน่ามต๊าว",
+        "central": "ฟักทอง"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "รถเครื่อง",
+        "central": "มอเตอร์ไซค์"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ซว่างอกซว่างใจ๋",
+        "central": "สบายอกสบายใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ปะลม",
+        "central": "ผสม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ๋ก",
+        "central": "ตัก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ไม่พรือ",
+        "central": "ไม่เป็นไร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่น",
+        "central": "ยุ่ง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "แกงเท่",
+        "central": "แกงกะทิ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ท่า",
+        "central": "คอย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะเหงิม",
+        "central": "เหม่อลอย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "กางจ้อง",
+        "central": "กางร่ม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหิบ",
+        "central": "ปิดไม่สนิท"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะฮวด",
+        "central": "ขวด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลำ",
+        "central": "แม่น้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จอบป่ะ",
+        "central": "จอบสำหรับขุดดิน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำขี่สีก",
+        "central": "น้ำครำ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "หม้ายไหร",
+        "central": "ฐานะยากจน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไม้ปัด",
+        "central": "ไม้กวาด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ส่อน",
+        "central": "ซ้อน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เตลิด",
+        "central": "เลย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ผ่าซิ่น",
+        "central": "ผ้าถุง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กเด่",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซักชา",
+        "central": "ซักคะเย่อ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "งามหลายน้อ",
+        "central": "สวยจังเลยนะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ใบ๋สีพลู",
+        "central": "ใบช้าพลู"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะบวน",
+        "central": "กวน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่ะโลก",
+        "central": "โคลนตม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ห้าง",
+        "central": "กระท่อม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะบ๋วน",
+        "central": "ทำตัวลีลา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ๋เหว่ย/ไอ๋เยอ",
+        "central": "อะไรนะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ต๊กกะเต็ด",
+        "central": "อาการตกใจจนสะดุ้ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แฉะปะแประ",
+        "central": "แฉะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เปื้อน",
+        "central": "เพื่อน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เร็ง",
+        "central": "ข่มเหง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ปะเลาะ",
+        "central": "เกลี้ยกล่อม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หม่ะตัน",
+        "central": "พุทรา"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ทำนุ้ย",
+        "central": "ทำออดอ้อนเป็นเด็ก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เกี้ยด",
+        "central": "เครียด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จักแหล่ว",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อิลักอิหลูบ",
+        "central": "ทุลักทุเล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แม่ะใหญ่",
+        "central": "แม่ผัว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ติ้ว",
+        "central": "หิ้ว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่วย",
+        "central": "ผล"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หม่ะหนุน",
+        "central": "ขนุน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดินหุน",
+        "central": "ปลวก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไอ่เหว่ย/จั๊กไอ่",
+        "central": "อะไรก็ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดอกเด่",
+        "central": "ต่างหาก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "โกปี้",
+        "central": "กาแฟ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ำหึน",
+        "central": "ดันทุรัง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหยูด",
+        "central": "ยับยู่ยี่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะก๋อง",
+        "central": "กะชอน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เฮือน",
+        "central": "เรือน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งวม",
+        "central": "คว่ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กแหล่ว",
+        "central": "ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละก๋อ",
+        "central": "มะละกอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แนว",
+        "central": "เผ่าพันธ์"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ไล",
+        "central": "กลอนหน้าต่าง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "พลัดพรก",
+        "central": "อาการของการหล่นลงมาอย่างแรง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ผักกะพึน",
+        "central": "คึ่นช่าย"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2775195/",
+        "type": "northern",
+        "dialect": "ไปตวยก่อ",
+        "central": "ไปด้วยกันไหม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ร้านก้า",
+        "central": "ร้านค้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คะนน",
+        "central": "โอ่งดิน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เดิ่น",
+        "central": "ลาน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "อู้",
+        "central": "พูด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละลม",
+        "central": "สระน้ำที่ขุดค่อนข้างลึกและกว้าง เพื่อเก็บน้ำไว้ตลอดปี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โกรกกราก",
+        "central": "รีบด่วน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แฉ่ะประแประ",
+        "central": "เฉอะแฉะ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "แคนดาย",
+        "central": "พอใช้ได้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถมมอ",
+        "central": "ถมเถ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "วะวาบ",
+        "central": "โล่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ขอย",
+        "central": "อิจฉา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จอบมือ",
+        "central": "จอบเสียม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะปีน",
+        "central": "มะตูม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระเอิ๋ม",
+        "central": "ขยะแขยง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลันทา",
+        "central": "ระทา"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เปิ้นฮักตั๋ว",
+        "central": "ฉันรักเธอ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ม่ะนอยงู",
+        "central": "บวบงู"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "อายไส",
+        "central": "อายทำไม"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ทำเฒ่า",
+        "central": "อวดรู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บุ่ง",
+        "central": "สระน้ำ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "หวัก",
+        "central": "ทัพพี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สะบุกสะบูด",
+        "central": "มอมแมม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หยางหยืด",
+        "central": "ยางยืด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หม๊กม่วง",
+        "central": "มะม่วง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แสละ",
+        "central": "กระแดะ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ขี้ทก",
+        "central": "โกรธง่าย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะยึก",
+        "central": "เร่งรีบ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "แม่ญิง",
+        "central": "ผู้หญิง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "มอง",
+        "central": "ตาข่ายดักปลา"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "เจ้น",
+        "central": "เช่น"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะโอ",
+        "central": "ส้มโอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กั๋น",
+        "central": "กัน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ปี้นั่นน่ะก่ะขี้วอกขี้จุ๊ วอกจะใดก็ฟังบ่ขึ้น",
+        "central": "พี่นั้นแหละที่โกหก โกหกยังไงก็ฟังไม่ขึ้น"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ก้วยใต้",
+        "central": "กล้วย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเทิ๊บ",
+        "central": "ขยับ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขวง",
+        "central": "ขวาง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะเหว๋า/ขะเหวา",
+        "central": "ข่วน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เสงิม",
+        "central": "ไม่มีสมาธิ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เต้ง",
+        "central": "ระเบียง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะเขือขะม้า",
+        "central": "มะเขือยาว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะหนมจี๋น",
+        "central": "ขนมจีน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "เฉียวฉาว",
+        "central": "ไม่ค่อยสบายตัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บักเอ๊บ",
+        "central": "ใหญ่โต"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะมิดตะหม่อง",
+        "central": "เหนียมอาย"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ส้มโจ๊ะโล๊ะ",
+        "central": "รสเปรี้ยวมาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จำโอ๋",
+        "central": "อาการคลื่นไส้อาเจียน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จะได",
+        "central": "อย่างไร"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เพ่าะใหญ่",
+        "central": "พ่อผัว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขี่ขะหนิม",
+        "central": "ขี้ไคล"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ะยึก",
+        "central": "ขวักไขว่"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จ๊าดลำ",
+        "central": "อร่อยมาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โสน",
+        "central": "เหี่ยวเฉา"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ใจ๋ขึ้น",
+        "central": "อารมณ์เสีย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หล้อ",
+        "central": "โกหก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ซ้องปีบ",
+        "central": "ดอกปีบที่นำมาประดับผม"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "โหม่สู",
+        "central": "พวกเธอ"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2775195/",
+        "type": "northern",
+        "dialect": "ผีอี่ฮุง",
+        "central": "รุ้งกินน้ำ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ไค้หัน",
+        "central": "อยากเห็น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อู้ดลู้ด",
+        "central": "สกปรก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่งไว้",
+        "central": "รักษาไว้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ตอใด",
+        "central": "เมื่อไหร่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รุ่ระ",
+        "central": "รวดเร็ว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "รถถีบ",
+        "central": "รถจักรยาน"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ไม่หลาบ",
+        "central": "ไม่เข็ด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ระอ๋อม",
+        "central": "เจ็บ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ข้อง",
+        "central": "สะดุด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะแขว้ง",
+        "central": "มะเขือพวง"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "ชมพู่",
+        "central": "ฝรั่ง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หลวง",
+        "central": "ใหญ่"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ง่าว",
+        "central": "โง่"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งูจิ๊ก",
+        "central": "งูกัด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ๋าน",
+        "central": "จาน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หระวน",
+        "central": "ยุ่ง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ดานเฉียง",
+        "central": "เขียง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "เบล่อ",
+        "central": "ไม่เอาไหน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ควยงู",
+        "central": "หญ้าพันงู"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บ่าดินกี่",
+        "central": "อิฐ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่วยแหน่/แหน่",
+        "central": "น้อยหน่า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พูดเดิม",
+        "central": "นินทา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซีกหัวนอน/ทิศหัวนอน",
+        "central": "ทิศใต้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ซุบแข็บ",
+        "central": "สวมรองเท้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลันด๋า",
+        "central": "แกล้งทำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "งัว",
+        "central": "วัว"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "โบระ",
+        "central": "ไม่สวย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จั๊กไอ์เยอ",
+        "central": "อะไรก็ไม่รู้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกี๋ยว",
+        "central": "เกวียน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ตั๋ว",
+        "central": "เธอ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "หึงสา",
+        "central": "อิจฉา"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บ่ะหมั้น",
+        "central": "ฝรั่ง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ชะ/ช่ะ",
+        "central": "สะอาด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะกะตะกราน",
+        "central": "กินมูมมาม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะทะระราย",
+        "central": "อัธยาศัยดี"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "หนำ",
+        "central": "กระท่อม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะเขือส้ม",
+        "central": "มะเขือเทศ"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2775195/",
+        "type": "northern",
+        "dialect": "จ๊ะไปปากนัก",
+        "central": "อย่าพูดมาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตื่ง",
+        "central": "บวม"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ลำ",
+        "central": "อร่อย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หน่าแง",
+        "central": "หน้าผาก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "หลาว",
+        "central": "เอาอีกแล้ว"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ฉู้ฉี้",
+        "central": "เป่ายิงฉุบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดูทั้ว",
+        "central": "ดูซิ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จ๊ะไปปากนัก",
+        "central": "อย่าพูดมาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "แห่น",
+        "central": "แทะ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "เอิด",
+        "central": "กวน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ละอ่อน",
+        "central": "เด็ก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ขมแก๊ก",
+        "central": "ขมมาก"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "อ้อร้อ",
+        "central": "ไม่เรียบร้อย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เสียเส่น/เสียยึก",
+        "central": "เคล็ดขัดยอก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะเขือผ่อย",
+        "central": "มะเขือเปราะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ซุม",
+        "central": "กลุ่มที่มีบ้านเรือนรวมกันอยู่หนาแน่น"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ตะกึ้ด",
+        "central": "สะกด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เวียนหน้า",
+        "central": "วิงเวียนศีรษะ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "คนฝนมีด",
+        "central": "ลับคมมีด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะโหลก",
+        "central": "กะลามะพร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำโห่ง",
+        "central": "น้ำท่วม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ถั่วดิ๋น",
+        "central": "ถั่วลิสง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ผ้าตุ้ม",
+        "central": "ผ้าเช็ดตัว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "ไม่ไหล",
+        "central": "ไม่มีอะไรเลย"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ้วน",
+        "central": "ตัก"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "หาม้าย",
+        "central": "ไม่มี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "โต่งโหม่ง",
+        "central": "เห็นเด่นชัด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ซาว",
+        "central": "ยี่สิบ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เหยียบ",
+        "central": "ทับ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๊กไม้",
+        "central": "ต้นไม้"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ผักแคบ",
+        "central": "ผักตำลึง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จ๊าง",
+        "central": "ช้าง"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "ดีปลี",
+        "central": "พริก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สีหยืด",
+        "central": "หวาดเสียว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จอด",
+        "central": "เชื่อม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ดึ๊กน่าม",
+        "central": "จมน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "หมาน",
+        "central": "โชคดี"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สีเหลื่อม ๆ",
+        "central": "สีที่มีความระยิบระยับ แวววาว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ฉะมุดน้ำ/ขะมุดน้ำ",
+        "central": "ดำน้ำ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "บ๊ก",
+        "central": "พร่อง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "สูกหยูก",
+        "central": "รุงรัง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลอยละปุ๋ง",
+        "central": "ลอยตุ๊บป่อง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "สึ่งตึง",
+        "central": "ปัญญาอ่อน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ชะแหน่ว",
+        "central": "หมด"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำต๋าลอยหน่วย",
+        "central": "น้ำตาคลอ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "บะป๊าว",
+        "central": "มะพร้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จ่ง",
+        "central": "แบ่ง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "หาจก",
+        "central": "ตะกละ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละกอ",
+        "central": "มะละกอ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ก๊กเข่า",
+        "central": "ต้นข้าว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เขี่ยนหมาก",
+        "central": "เขี่ยนหมาก"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กิ๋น",
+        "central": "กิน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "พูดล่าง",
+        "central": "พูดแบบคนกรุงเทพ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "อั๊ดจั๋น",
+        "central": "แปลกใจ"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ล่อ",
+        "central": "ล้อ(กริยา)"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ลูกงา",
+        "central": "เด็กทารกแรกเกิด"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "หื่อ",
+        "central": "ให้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ขะนน",
+        "central": "โอ่งน้ำ"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2775195/",
+        "type": "northern",
+        "dialect": "ไอ้บ่าฮู้ฟ้า",
+        "central": "คนไม่รู้เรื่องรู้ราว"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระดิ๊กกระเดิด",
+        "central": "ระริกระรี้"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "เกือก",
+        "central": "รองเท้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ร่ำไร",
+        "central": "ชักช้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "น่ำปร้า",
+        "central": "น้ำปลาร้า"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กระบ๋วน",
+        "central": "ถือตัว"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1390689/",
+        "type": "southern",
+        "dialect": "สับปลับ",
+        "central": "พูดจาโกหกกลับไปกลับมา"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "รากแตก",
+        "central": "อาเจียนอย่างรุนแรง"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "ฉีกเหงือก",
+        "central": "ดันทุรัง"
+    },
+    {
+        "source": "https://www.thairath.co.th/lifestyle/life/2068049",
+        "type": "southern",
+        "dialect": "ทำเฒ่า",
+        "central": "สาระแน"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "ละมวนท่อง",
+        "central": "มวนท้อง"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ปั๊กกะตืน",
+        "central": "ปฏิทิน"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "จะไปพั่ง",
+        "central": "อย่ารีบ"
+    },
+    {
+        "source": "https://www.facebook.com/Wongnai/",
+        "type": "southern",
+        "dialect": "น้ำเต้า",
+        "central": "ฟักทอง"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "กะเต็ด",
+        "central": "ตกใจ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "อะหยัง",
+        "central": "ทำไม"
+    },
+    {
+        "source": "https://github.com/wannaphong/IsanNLP",
+        "type": "nangrong",
+        "dialect": "จืดจ่องหล่อง",
+        "central": "จืดจนไม่มีรสชาติ"
+    },
+    {
+        "source": "https://www.sanook.com/campus/1392241/",
+        "type": "northern",
+        "dialect": "ซาวเอ๋ด",
+        "central": "ยี่สิบเอ็ด"
+    }
+]
